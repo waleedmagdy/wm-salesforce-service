@@ -11,5 +11,3 @@
 # UAT TEST 1
 
 # UAT TEST 2
-
-# merge from QA
