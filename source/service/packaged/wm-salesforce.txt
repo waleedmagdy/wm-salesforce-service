@@ -1,13 +1,1 @@
-# wm-salesforce
-  to be merged to other repo
-
-# First Test
-# Automerge
-# Automerge with label
-# TEST
-
-# try this pr
-
-# UAT TEST 1
-
-# UAT TEST 2
+# TEST file
